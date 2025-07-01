@@ -1,3 +1,6 @@
 01.07.2025 / Denizli / Pamukkale
 deneme1
-deneme2
+deneme2 
+README.md merge deneme2
+README.md push deneme2
+day-1/yeni.txt README.md
